@@ -1,0 +1,11 @@
+/Users/hokage/Documents/rust-project/rust-server/target/debug/deps/socket2-7f6b07152169b60f.rmeta: /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs
+
+/Users/hokage/Documents/rust-project/rust-server/target/debug/deps/libsocket2-7f6b07152169b60f.rlib: /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs
+
+/Users/hokage/Documents/rust-project/rust-server/target/debug/deps/socket2-7f6b07152169b60f.d: /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs /Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs
+
+/Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs:
+/Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs:
+/Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs:
+/Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs:
+/Users/hokage/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs:
